@@ -74,7 +74,7 @@ The system consists of three main components:
 
 1. Clone the repository:
 bash
-git clone https://github.com/AshayaSah/seven-chromosomes
+git clone https://github.com/MirageShrestha/Hackathon-Project 
 2. Install frontend dependencies:
 cd frontend
 npm install
