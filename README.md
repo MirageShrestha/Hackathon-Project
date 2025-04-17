@@ -1,4 +1,4 @@
-# HealthChain AI: Blockchain-based Patient Records with AI Disease Prediction and AI Assistance
+# MedChain AI: Blockchain-based Patient Records with AI Disease Prediction and AI Assistance
 
 ![1744850953372603](https://github.com/user-attachments/assets/4571ce12-7e00-402a-afc6-c6111ad21d08)![1744850953664427](https://github.com/user-attachments/assets/55546214-1fc2-4aea-9782-bd7d050c45af)
 ![1744850953914827](https://github.com/user-attachments/assets/c006314c-7450-4be1-8774-0a56cc610f48)
